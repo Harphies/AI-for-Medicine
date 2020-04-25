@@ -8,3 +8,4 @@
   - Brain Tumor segmentation
 - Disease detection with computer vision
 - AI for medical diagnosis
+- Predicting motions from EEG Readings
